@@ -1,2 +1,2 @@
 # calvent
-An anonymous posting board for art sudents
+An anonymous message posting board for art sudents
